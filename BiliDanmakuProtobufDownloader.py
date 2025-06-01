@@ -14,7 +14,7 @@ COOKIE = ("SESSDATA=YourSESSDATA;"
           "bili_jct=Yourbili_jct")  # 替换为真实Cookie
 REQUEST_INTERVAL = 1  # 请求间隔（秒）
 MAX_RETRIES = 3  # 失败重试次数
-OUTPUT_FILE = fr"C:\output\path\P{PART_INDEX}.csv"  # 输出文件名
+OUTPUT_FILE = fr"C:\output\path\P{PART_INDEX}.csv"  # 输出文件路径
 # —————————————————————————————————————————————————
 
 def get_video_info(bvid: str) -> dict:
