@@ -2,9 +2,10 @@
 项目本身无使用意义，需搭配另外两个工具使用（尚未完善）  
 分别是`ProtobufCSV2XML`与`BiliDanmakuDiff`。
 
-## 特别感谢
-实现方法来源于[SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect)，感谢各位大佬的贡献！  
-参考文档：[Protobuf弹幕](https://socialsisteryi.github.io/bilibili-API-collect/docs/danmaku/danmaku_proto.html)。
+## 特别声明
+本项目开发过程中参考了[SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect)的实现思路，感谢各位大佬的贡献！  
+该项目的源代码遵循 CC BY-NC 4.0 协议，禁止一切商业使用！！！  
+参考文档：[Protobuf弹幕](https://socialsisteryi.github.io/bilibili-API-collect/docs/danmaku/danmaku_proto.html)。  
 
 ## 更新计划
 本项目最初是为《【高清修复】东方幻想万华镜全集》补档工作而设计，尽管现已结束补档工作，但本项目将继续作为练手作继续练习开发、维护。
