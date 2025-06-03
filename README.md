@@ -4,7 +4,7 @@
 
 ## 特别声明
 本项目开发过程中参考了[SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect)的实现思路，感谢各位大佬的贡献！  
-该项目的源代码遵循 CC BY-NC 4.0 协议，禁止一切商业使用！！！  
+源项目遵循 CC BY-NC 4.0 协议，禁止一切商业使用！！！  
 参考文档：[Protobuf弹幕](https://socialsisteryi.github.io/bilibili-API-collect/docs/danmaku/danmaku_proto.html)。  
 
 ## 更新计划
