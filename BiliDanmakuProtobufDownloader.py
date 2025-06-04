@@ -17,6 +17,7 @@ MAX_RETRIES = 3  # 失败重试次数
 OUTPUT_FILE = fr"C:\output\path\P{PART_INDEX}.csv"  # 输出文件路径及名称
 # —————————————————————————————————————————————————
 
+
 def get_video_info(bvid: str) -> dict:
     """获取视频元数据（cid/avid）"""
     url = f"https://api.bilibili.com/x/web-interface/view?bvid={bvid}"
@@ -47,6 +48,7 @@ def get_video_info(bvid: str) -> dict:
             print(f"获取视频信息失败: {e}")
             time.sleep(REQUEST_INTERVAL)
     raise RuntimeError("无法获取视频信息")
+
 
 def get_all_danmaku(oid: int, pid: int) -> list:
     """获取所有分段的弹幕数据"""
