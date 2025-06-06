@@ -1,4 +1,5 @@
 # BiliDanmakuProtobufDownloader Bilibili弹幕获取工具
+注：该项目准备与[ProtobufCSV2XML](https://github.com/Mikuoso/ProtobufCSV2XML)合并！敬请期待。  
 项目本身无使用意义，需搭配另外两个工具使用  
 分别是[ProtobufCSV2XML](https://github.com/Mikuoso/ProtobufCSV2XML)与[BiliDanmakuDiff](https://github.com/Mikuoso/BiliDanmakuDiff)。
 
