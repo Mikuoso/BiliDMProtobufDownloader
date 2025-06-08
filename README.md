@@ -45,4 +45,4 @@ OUTPUT_FILE = r"C:\path.csv" # 输出文件路径
 或者直接下载项目中提供的`dm_pb2.py`
 
 ## 更新计划
-本项目最初是为《【高清修复】东方幻想万华镜全集》补档工作而设计，已与[BiliDMProtobufDownloader](https://github.com/Mikuoso/BiliDMProtobufDownloader)合并为[BiliDanmakuDownloader](https://github.com/Mikuoso/BiliDanmakuDownloader)，现决定停止维护。
+本项目最初是为《【高清修复】东方幻想万华镜全集》补档工作而设计，已与[ProtobufCSV2XML](https://github.com/Mikuoso/ProtobufCSV2XML)合并为[BiliDanmakuDownloader](https://github.com/Mikuoso/BiliDanmakuDownloader)，现决定停止维护。
