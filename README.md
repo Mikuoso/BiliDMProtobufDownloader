@@ -1,5 +1,7 @@
 # BiliDanmakuProtobufDownloader Bilibili弹幕获取工具
-注：该项目准备与[ProtobufCSV2XML](https://github.com/Mikuoso/ProtobufCSV2XML)合并！敬请期待。  
+注：该项目已完成与[ProtobufCSV2XML](https://github.com/Mikuoso/ProtobufCSV2XML)的合并工作！  
+现决定停止维护，请移步至[BiliDanmakuDownloader](https://github.com/Mikuoso/BiliDanmakuDownloader)！  
+
 项目本身无使用意义，需搭配另外两个工具使用  
 分别是[ProtobufCSV2XML](https://github.com/Mikuoso/ProtobufCSV2XML)与[BiliDanmakuDiff](https://github.com/Mikuoso/BiliDanmakuDiff)。
 
@@ -43,5 +45,4 @@ OUTPUT_FILE = r"C:\path.csv" # 输出文件路径
 或者直接下载项目中提供的`dm_pb2.py`
 
 ## 更新计划
-本项目最初是为《【高清修复】东方幻想万华镜全集》补档工作而设计，尽管现已结束补档工作，但本项目将继续作为练手作继续练习开发、维护。
-
+本项目最初是为《【高清修复】东方幻想万华镜全集》补档工作而设计，已与[BiliDMProtobufDownloader](https://github.com/Mikuoso/BiliDMProtobufDownloader)合并为[BiliDanmakuDownloader](https://github.com/Mikuoso/BiliDanmakuDownloader)，现决定停止维护。
